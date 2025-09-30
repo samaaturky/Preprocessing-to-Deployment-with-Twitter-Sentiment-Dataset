@@ -12,10 +12,6 @@ Deploying a lightweight prediction app with Streamlit.
 Logistic Regression achieved the best performance (~75% accuracy).
 Stemming slightly outperformed lemmatization.
 Adding linguistic features (POS counts) gave small improvements.
-#### How to Run
-Clone this repository:
-git clone https://github.com/your-username/sentiment-analysis-app.git
-cd sentiment-analysis-app
 
 Install dependencies:
 pip install -r requirements.txt
